@@ -1,0 +1,22 @@
+.book-card {
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    margin: 50px;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    background-color: #000000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    align-items: center; 
+  }
+  .book-card .book-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    align-items: center;
+  }
+
+  .book-card h3 {
+    font-size: 1.5rem;
+    color: #ffffff; 
+  }
